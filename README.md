@@ -1,1 +1,1 @@
-# AI-Fitness-Coach
+# ai-fitness-model
